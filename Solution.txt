@@ -1,0 +1,11 @@
++----------+----------+--------------------+------------------------------------------------------------------------------------------+-----+
+|   Date   |   Time   |        text        |                                          cipher                                          | key |
++----------+----------+--------------------+------------------------------------------------------------------------------------------+-----+
+| 29:03:23 | 17:41:39 |  Yellow submarine  |     YmOeRewtxYlxRfDlkjDJowSnxwoWPK XIsEsSPRWuFTNVbWVNHmzIbUayQErrGsaWiHndAnYoLKecsOc     |  4  |
+| 29:03:23 | 17:41:39 |      Hey Jude      |             HQSDiBMreYPGEeFgynZVflJg BWqomkCJSTDVoYEuAdzltCEdjiInukieqqDtaqk             |  7  |
+| 29:03:23 | 17:41:39 |  Paperback Writer  |             PIIIappFprrmelpsrHNgbMpJaljGcXhgkVZQ WiTWQKJrfIMioykteqqeMztrOcd             |  3  |
+| 29:03:23 | 17:41:39 | Here Comes the Sun |                           HdeHrpev gChoimYelsa OtkhxeI zSIucnw                           |  1  |
+| 29:03:23 | 17:41:39 |     Penny Lane     |               PcZdaFeKpZpcngNFRXnXKByFyLIlEi grUgbLvtJLraPZJzvnCogeGeRrPXt               |  5  |
+| 29:03:23 | 17:41:39 |    Cil Academy     |                 CQODqiqQFvlDcNg lhkMABpEXcWSSzaLMbddblggeFfcNmEqTXyOPlh                  |  4  |
+| 29:03:23 | 17:41:39 |    pythonista!     | ptjpuKfSyjdaijhmtWRGHHDWhJOwzOPLoFIqqXpAnGNbYVQtihLSQyYKslWmrqBKtpvLeGvxaGNHyJDR!sUdmeqD |  7  |
++----------+----------+--------------------+------------------------------------------------------------------------------------------+-----+
