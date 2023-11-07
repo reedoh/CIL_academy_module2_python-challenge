@@ -1,1 +1,15 @@
-# CIL_academy_module2_python-challenge
+Encoding and DEcoding 
+======================
+This is an assined task by CIL_academy_module
+:w
+
+
+
+
+
+
+
+
+
+
+
